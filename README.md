@@ -17,16 +17,16 @@
 💪 Billy Herrington
 Проверка наличия ключевых слов на странице знаменитости.
 
-📂 Структура проекта
-
 C:\Test Zadanie\
+│
 ├─ .gitignore
 ├─ requirements.txt
 └─ tests\
-  ├─ test_oxygen_positive.py
-  ├─ test_oxygen_negative.py
-  ├─ test_ravshan_jamshut_wiki.py
-  └─ test_billy_herrington.py
+    ├─ test_oxygen_positive.py
+    ├─ test_oxygen_negative.py
+    ├─ test_ravshan_jamshut_wiki.py
+    └─ test_billy_herrington.py
+
 
   Установка
 
